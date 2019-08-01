@@ -13,6 +13,12 @@ the first 50, 100, and 150 instances respectively. Call them: train-50(1000)-100
 each of the 6 dataset, plot both the training set MSE and the test set MSE as a function of  λ (x-axis)
 in one graph.
 
+        (a) For each dataset, which λ value gives the least test set MSE?
+        
+        (b) For each of datasets 100-100, 50(1000)-100, 100(1000)-100, provide an additional graph with λ ranging from 1 to 150.
+        
+        (c) Explain why λ = 0 (i.e., no regularization) gives abnormally large MSEs for those three datasets in (b).
+
 3. From the plots in question 2, we can tell which value of λ is best for each dataset once we know the
 test data and its labels. This is not realistic in real world applications. In this question, you will use
 cross validation (CV) to set the value for λ. Implement the 10-fold CV technique discussed in class
