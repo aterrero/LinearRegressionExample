@@ -19,12 +19,15 @@ cross validation (CV) to set the value for λ. Implement the 10-fold CV techniqu
 (pseudo code given in Appendix A) to select the best λ value based on the training data only and
 answer the following questions:
 
-(a) Using the CV technique, what is the best choice of λ and the corresponding test set MSE for each
-of the six datasets?
-(b) How do the values for λ and MSE obtained from CV compare to the choice of λ and MSE in
-question 2(a)?
-(c) What are the drawbacks of CV?
-(d) What are the factors affecting the performance of CV?
+    (a) Using the CV technique, what is the best choice of λ and the corresponding test set MSE for each
+    of the six datasets?
+    
+    (b) How do the values for λ and MSE obtained from CV compare to the choice of λ and MSE in
+    question 2(a)?
+    
+    (c) What are the drawbacks of CV?
+    
+    (d) What are the factors affecting the performance of CV?
 
 4. Fix λ = 1, 25, 150. For each of these values, plot a learning curve for the algorithm using the dataset
 1000-100.csv.
