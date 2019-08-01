@@ -1,6 +1,6 @@
 # LinearRegressionExample
 
-This is an example implementation of Linear Regression done on python, I provide my code and the dataset used.
+This is an example implementation of Linear Regression done on python, I provide my code and the datasets used.
 
 Here is the prompt of the assignment:
 
